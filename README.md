@@ -36,7 +36,7 @@ python app.py
 2. Click on the "Open Question Bank" button.
 3. Attempt questions, use the calculator, bookmark questions, and navigate to URLs as needed.
 4. After attempting a question, you can review past attempts and save notes.
-5. To exit the app, click on the "Quit" button.
+5. To exit the app, click on the "Quit" button. **Note:** Only when you Quit does the json file save.
 
 ## Additional Notes
 
